@@ -6,7 +6,7 @@ Bu repo [Patika.dev](https://www.patika.dev) *Github'ta Repo İşlemleri Ödevi*
 [Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
 
 ## Proje Resmi
-![github](images/github_patika.png)
+![github](images/github.png)
 
 ## Installation
 
