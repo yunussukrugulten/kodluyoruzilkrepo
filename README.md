@@ -1,4 +1,4 @@
-# kodluyoruzilrepo
+# kodluyoruzilkrepo
 
 Bu repo [Patika.dev](https://www.patika.dev) *Github'ta Repo İşlemleri Ödevi* için oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet de index.html barındırıyor.
 
