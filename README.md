@@ -3,7 +3,7 @@
 Bu repo [Patika.dev](https://www.patika.dev) *Github'ta Repo İşlemleri Ödevi* için oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet de index.html barındırıyor.
 
 ## Proje Resmi
-![github](images/github.png)
+![github](images/github_patika.png)
 
 ## Installation
 
