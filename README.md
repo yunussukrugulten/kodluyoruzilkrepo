@@ -2,6 +2,9 @@
 
 Bu repo [Patika.dev](https://www.patika.dev) *Github'ta Repo İşlemleri Ödevi* için oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet de index.html barındırıyor.
 
+## Patika.dev hesabım
+[Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
+
 ## Proje Resmi
 ![github](images/github_patika.png)
 
