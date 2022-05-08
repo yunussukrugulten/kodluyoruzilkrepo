@@ -1,26 +1,18 @@
-# kodluyoruzilkrepo
+## kodluyoruzilkrepo
+The first repo I opened within the scope of We Code Training.
 
-Bu repo [Patika.dev](https://www.patika.dev) *Github'ta Repo İşlemleri Ödevi* için oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet de index.html barındırıyor.
-
-## Patika.dev Hesabım
+## Patika.dev Account
 [Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
 
-## Proje Resmi
+## Project Picture
 ![github](images/github.png)
 
 ## Installation
-
-Öncelikle projeyi clonelayın.
-
 ```bash
 git clone https://github.com/yunussukrugulten/kodluyoruzilkrepo.git
 ```
 
 ## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
 ```linux
 cd kodluyoruzilkrepo
 code .
